@@ -20,7 +20,6 @@ Employee turnover impacts organizational productivity, morale, and financial per
 - **Core Files**:
   - `emp_attrition.xlsx`: Cleaned and modeled Excel dataset featuring `emp_attrition` and `Data_Engine` transformation sheets.
   - `emp_attrition.csv`: Raw employee attrition dataset.
-  - *(Upcoming)* Power BI Dashboard (`.pbix`) with interactive executive reporting views.
 
 ### Key Metrics Tracked:
 - **Total Headcount** & **Active Employees**
@@ -35,11 +34,3 @@ Employee turnover impacts organizational productivity, morale, and financial per
 - **Microsoft Excel**: Data cleaning, feature engineering, and exploratory data modeling (`Data_Engine`).
 - **Power BI**: Interactive dashboard design, multi-page reporting, DAX calculations, and cohort binning.
 - **DAX & Data Modeling**: Custom measures for retention rate, attrition rate, tenure groupings, and risk scoring.
-
----
-
-## 🚀 Status & Roadmap
-- [x] Data ingestion & Excel modeling (`emp_attrition.xlsx`)
-- [ ] Power BI interactive dashboard design & visual layout
-- [ ] Executive KPI summary & department-level breakdown
-- [ ] Final insights report & HR recommendations
