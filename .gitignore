@@ -1,0 +1,10 @@
+# Temporary Excel files
+~$*.xlsx
+~$*.xls
+
+# Power BI temp files
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
